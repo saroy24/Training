@@ -1,0 +1,9 @@
+{
+
+    "responseTimeout" :90000,
+    "defaultCommandTimeout":9000
+
+
+
+
+}

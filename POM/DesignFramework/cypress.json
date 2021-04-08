@@ -1,0 +1,12 @@
+{
+
+       
+        "baseUrl":"https://opensource-demo.orangehrmlive.com/",
+        "baseUrluat": "https://data-gathering.local.int.conquestplanning.com",
+        "baseUrltest": "https://admin.local.int.conquestplanning.com",
+        "baseApiUrl": "https://api.latest.int.conquestplanning.com",
+        "authUrl": "https://auth.development.conquestplanning.com",
+        "templateBasePath": "../conquest-angular/SampleData",
+        "cypressTemplateBasePath": "./SampleData"
+    
+}
